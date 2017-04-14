@@ -47,6 +47,7 @@
 
 * [Codepad](http://codepad.org)
 * [PHPFiddle](http://phpfiddle.org)
+* [PHPTester](http://phptester.net)
 
 
 ### Python
@@ -60,8 +61,19 @@
 * [Runnable](http://code.runnable.com)
 
 
+### Rust
+
+* [Rust Playground](http://play.integer32.com)
+
+
 ### SQL
 
 * [SQLFiddle](http://sqlfiddle.com)
+
+
+### Scala
+
+* [ScalaFiddle.io](https://scalafiddle.io)
+* [ScalaFiddle.net](http://scalafiddle.net)
 
 
